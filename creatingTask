@@ -1,3 +1,7 @@
 function createTask(title, description) {
-  // TODO: implement this
+  return {
+    title,
+    description,
+    status: 'incomplete'
+  };
 }
