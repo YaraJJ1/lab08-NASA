@@ -7,6 +7,7 @@ Create a TODO List application, to help the NASA engineers to keep track of thei
 - Tasks can be assigned to different people, however if unassigned, anyone can "pick up" the task.
 - Tasks can be marked as complete, deleted, or created.
 - A logs tab, for admins only, will log every tasks created, deleted, marked as compelete, or picked up.
+- (Optional) Add tags to tasks (e.g. backend, frontend, UI/UX)
 
   ## How to run Project
   i. Clone the repository
