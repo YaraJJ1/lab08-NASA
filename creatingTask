@@ -1,0 +1,8 @@
+function createTask(title, description, priority = 'lowest') {
+  return {
+    title,
+    description,
+    priority,
+    status: 'incomplete'
+  };
+}
