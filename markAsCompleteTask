@@ -1,3 +1,4 @@
 function markTaskComplete(task) {
-  // TODO: implement latre
+  task.status = 'complete';
+  return task;
 }
