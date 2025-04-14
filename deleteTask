@@ -1,3 +1,0 @@
-function deleteTask(taskList, index) {
-  // TODO implement later
-}
