@@ -9,16 +9,24 @@ Create a TODO List application, to help the NASA engineers to keep track of thei
 - A logs tab, for admins only, will log every tasks created, deleted, marked as compelete, or picked up.
 
   ## How to run Project
-  1. Clone the repository
-  2. Open your terminal then run:
-     ```bash
+  i. Clone the repository
+  
+  ii. Open your terminal then run:
+  ```
     git clone https://github.com/YaraJJ1/lab08-NASA.git
     cd lab08-NASA
-  3. Install dependencies  
-      ```bash
+  ```
+  iii. Install dependencies  
+  ```
       npm install
-  4. Start the local server
+  ```
+  iv. Start the local server
+  ```
       npm run dev
-  5. Open your broswer and visit http://localhost:5173
+  ```
+  v. Open your broswer and visit
+  ```
+     http://localhost:5173
+  ```
 
   
