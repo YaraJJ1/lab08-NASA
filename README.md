@@ -12,5 +12,5 @@ Create a TODO List application, to help the NASA engineers to keep track of thei
   1. Clone the repository
   2. Open your terminal then run:
 ```bash
-git clone git clone https://github.com/YaraJJ1/lab08-NASA.git
+git clone https://github.com/YaraJJ1/lab08-NASA.git
 cd lab08-NASA
