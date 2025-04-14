@@ -1,4 +1,5 @@
-function markTaskComplete(task) {
+function markTaskComplete(task, reason) {
   task.status = 'complete';
+  task.reason = 'Task completed';
   return task;
 }
